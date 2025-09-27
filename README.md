@@ -1,6 +1,12 @@
-# Python Courses Projects
 
-This repository contains two main projects: **Project1** and **Project2**.
+# Video Management App
+
+This repository contains two Python projects focused on managing YouTube video data and demonstrating file handling concepts. Both projects are designed for learning and practicing Python skills related to error handling, file operations, and basic database management.
+
+## Description
+**Project1** demonstrates file-based management of YouTube data, including reading, writing, and error handling using plain text files. It read, add, update and delete video file with video title, duration and url link and handle exceptions in Python.
+
+**Project2** extends the functionality by introducing a simple sqlite database (`youtube_manager.db`) for storing and managing YouTube data. These project2 also do same work as project1 with one more functionlity by adding database.
 
 ## Project1
 - **Files:**
